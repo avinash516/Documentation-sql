@@ -106,7 +106,7 @@ mysql\&gt;SHOWTABLES;
   - Varchar2 doesn&#39;t allow empty values or null values.
 
 - Data Types
-<img src="images/image3.png" raw=true alt="Img of DataTypes"/>
+<img src="https://raw.githubusercontent.com/avinash516/FrontEnd-Documentation-APSSDC/master/images/image3.png"/>
 
 
 The following table shows the string data types in MySQL:
@@ -445,7 +445,7 @@ A relational database consists of multiple related tables linking together using
 
 For example, in the [sample database](http://www.mysqltutorial.org/mysql-sample-database.aspx), we have the orders and orderdetails tables that are linked using the orderNumber column:
 
-<img src="https://raw.githubusercontent.com/avinash516/Documentation-sql/master/images/image5.png "/>
+<img src="https://raw.githubusercontent.com/avinash516/FrontEnd-Documentation-APSSDC/master/images/image5.png "/>
 
 To get complete orders&#39; information, you need to query data from both orders and orderdetails tables.
 
@@ -485,7 +485,7 @@ INNERJOIN salaries ON employee.id=salaries.id
 
 The following Venn diagram illustrates the inner join:
 
-<img src="https://raw.githubusercontent.com/avinash516/Documentation-sql/master/images/image1.png" />
+<img src="https://raw.githubusercontent.com/avinash516/FrontEnd-Documentation-APSSDC/master/images/image1.png" />
 
 ### Left Join
 
@@ -512,7 +512,7 @@ employee.addressFROM employee
 
 This Venn diagram illustrates how to use the left join to select rows that only exist in the left table:
 
-<img src="https://raw.githubusercontent.com/avinash516/Documentation-sql/master/images/image4.png" />
+<img src="https://raw.githubusercontent.com/avinash516/FrontEnd-Documentation-APSSDC/master/images/image4.png" />
 
 ### Right Join
 
@@ -533,7 +533,7 @@ employee.addressFROM employee
 
 This Venn diagram illustrates how to use the right join to select data that exists only in the right table:
 
-<img src="https://raw.githubusercontent.com/avinash516/Documentation-sql/master/images/image2.png" />
+<img src="https://raw.githubusercontent.com/avinash516/FrontEnd-Documentation-APSSDC/master/images/image2.png" />
 
 ### Full join
 
