@@ -107,7 +107,7 @@ mysql\&gt;SHOWTABLES;
 
 - Data Types
 
-![img]("https://raw.githubusercontent.com/avinash516/Documentation-sql/master/images/image3.png")
+<img src="https://raw.githubusercontent.com/avinash516/Documentation-sql/master/images/image3.png">
 
 The following table shows the string data types in MySQL:
 
