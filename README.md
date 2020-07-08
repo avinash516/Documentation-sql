@@ -213,11 +213,11 @@ The COUNT() function has three forms: COUNT(\*), COUNT(expression) and COUNT(DIS
 
 The COUNT(\*) function returns the number of rows in a result set returned by a [SELECT](https://www.mysqltutorial.org/mysql-select-statement-query-data.aspx) statement. The COUNT(\*) returns the number of rows including duplicate, non-NULL and NULL rows.
 
-## COUNT(expression)
+### COUNT(expression)
 
 The COUNT(expression) returns the number of rows that do not contain NULL values as the result of the expression.
 
-## COUNT(DISTINCT expression)
+### COUNT(DISTINCT expression)
 
 The COUNT(DISTINCT expression) returns the number of distinct rows that do not contain NULL values as the result of the expression.
 
