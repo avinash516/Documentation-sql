@@ -1,6 +1,6 @@
 ## Part - I
 
-<img src="http://RackMultipart20200628-4-mprj2k_html_237499165a11f2b9.gif" raw=true)
+![img]("http://RackMultipart20200628-4-mprj2k_html_237499165a11f2b9.gif")
 
 ### FMS vs DBMS vs noSql
 
@@ -106,7 +106,7 @@ mysql\&gt;SHOWTABLES;
   - Varchar2 doesn&#39;t allow empty values or null values.
 
 - Data Types
-<img src="https://raw.githubusercontent.com/avinash516/Documentation-sql/master/images/image3.png">
+<img src="images/image3.png" raw=true alt="Img of DataTypes"/>
 
 
 The following table shows the string data types in MySQL:
