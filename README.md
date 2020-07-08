@@ -1,6 +1,6 @@
 ## Part - I
 
-![img]("http://RackMultipart20200628-4-mprj2k_html_237499165a11f2b9.gif")
+![img](RackMultipart20200628-4-mprj2k_html_237499165a11f2b9.gif)
 
 ### FMS vs DBMS vs noSql
 
