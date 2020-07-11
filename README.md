@@ -134,9 +134,6 @@ The following table illustrates the MySQL date and time data types:
 | [TIMESTAMP](https://www.mysqltutorial.org/mysql-timestamp.aspx) | A timestamp value in CCYY-MM-DD hh:mm:ss format |
 | YEAR | A year value in CCYY or YY format |
 
-## Part - II
-
-![](RackMultipart20200628-4-mprj2k_html_237499165a11f2b9.gif)
 
 Dropping
 
@@ -334,9 +331,7 @@ Example :
 
 SELECT \* FROM employees WHERE name [LIKE](http://localhost/phpmyadmin/url.php?url=https://dev.mysql.com/doc/refman/5.5/en/string-comparison-functions.html#operator_like)&#39;%a%&#39; ( Retrieving data where name contains character &#39; **a**&#39; )
 
-## Part - VI
 
-![](RackMultipart20200628-4-mprj2k_html_237499165a11f2b9.gif)
 
 Relationships
 
