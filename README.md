@@ -1,7 +1,3 @@
-## Part - I
-
-![](RackMultipart20200628-4-mprj2k_html_237499165a11f2b9.gif)
-
 ### FMS vs DBMS vs noSql
 
 The **key difference** between DBMS and File Management System is that **a DBMS stores data to the hard disk according to a structure while a file management system stores data to the hard disk without using a structure.**
@@ -249,10 +245,6 @@ MySQL supports the following aggregate functions:
 | VARP\_SAM() | Return the sample variance. |
 | VARIANCE() | Return the population standard variance. |
 
-## Part - III
-
-![](RackMultipart20200628-4-mprj2k_html_237499165a11f2b9.gif)
-
 Sql Commands
 
 - Data Definition Language
@@ -265,9 +257,7 @@ Sql Commands
     - Deleting the column : ALTER TABLE \&lt;table name\&gt; DROP COLUMN \&lt;column-name\&gt;
     - ALTER TABLE \&lt;table\_name\&gt; ADD \&lt;column-name\&gt; \&lt;data\_type with size\&gt;
 
-## Part - IV
 
-![](RackMultipart20200628-4-mprj2k_html_237499165a11f2b9.gif)
 
   - RENAME : RENAME TABLE \&lt;old table name\&gt; TO \&lt;new table name\&gt;
   - TRUNCATE
@@ -313,9 +303,7 @@ These are the rules for enforcing on specific field ( columns )
 - UNIQUE KEY
 - FORIEGN KEY
 
-## Part - V
 
-![](RackMultipart20200628-4-mprj2k_html_237499165a11f2b9.gif)
 
 - DCL (Data Control Language)
   - GRANT
@@ -435,9 +423,6 @@ UNIQUE KEY
 - Same as primary key (Doesn&#39;t allow duplicate values)
 - We can specify multiple unique attributes for a single table.
 
-## Part - VII
-
-![](RackMultipart20200628-4-mprj2k_html_237499165a11f2b9.gif)
 
 Joins in SQL
 
@@ -578,9 +563,7 @@ Importance of HAVING clause
 
 - Selecting data from a table by filtering based on condition
 
-## Part - VIII
 
-![](RackMultipart20200628-4-mprj2k_html_237499165a11f2b9.gif)
 
 Clauses in SQL :
 
@@ -639,9 +622,7 @@ Relationships:
 
 2.[SELECT](http://localhost/phpmyadmin/url.php?url=https://dev.mysql.com/doc/refman/5.5/en/select.html) E.name, M.subject,M.marks,S.salaryFROM employee E, marks M,salaries S WHERE E.id=M.id[and](http://localhost/phpmyadmin/url.php?url=https://dev.mysql.com/doc/refman/5.5/en/logical-operators.html#operator_and) E.id=S.id
 
-## Part - IX
 
-![](RackMultipart20200628-4-mprj2k_html_237499165a11f2b9.gif)
 
 LIMIT :
 
